@@ -5,7 +5,7 @@ I'm Yashika
 - 💻 CSE Student
 - 🌱 Learning JavaScript & Web Development
 - 🤖 Building AI + NGO Project
-- 📫 Reach me: your-email@example.com
+- 📫 Reach me: sehgalyashika1@gmail.com
 
 ## 🛠️ Tech Stack
 HTML • CSS • JavaScript • Git • GitHub
@@ -17,4 +17,4 @@ HTML • CSS • JavaScript • Git • GitHub
 ![Streak](https://streak-stats.demolab.com?user=yashika-dev12&theme=radical)
 
 ## 🌐 Connect With Me
-[LinkedIn](https://linkedin.com)
+[LinkedIn](www.linkedin.com/in/yashika-sehgal-341b72382)
