@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there 👋
+I'm Yashika
 
-<!--
-**yashika-dev12/yashika-dev12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 💻 CSE Student
+- 🌱 Learning JavaScript & Web Development
+- 🤖 Building AI + NGO Project
+- 📫 Reach me: your-email@example.com
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+HTML • CSS • JavaScript • Git • GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=yashika-dev12&show_icons=true&theme=radical)
+
+## 🔥 Streak Stats
+![Streak](https://streak-stats.demolab.com?user=yashika-dev12&theme=radical)
+
+## 🌐 Connect With Me
+[LinkedIn](https://linkedin.com)
